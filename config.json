@@ -1,13 +1,13 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["50663299571@s.whatsapp.net","50663299571@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ 𝕯𝖊𝕾𝖙𝖊𝖛𝖊 ×፝֟͜×",
     "instagram" : "https://instagram.com/zeeoneofc",
     "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "botName": "𝕾𝖙𝖎𝖈𝖐𝖊𝖗❜𝖘",
     "footer": "2023 © api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
+    "pathimg": "./lucifer.jpg",
     "BotKey": "your key",
     "OpenAIKey": "your openai key",
     "audio_di_bagian_menu": "./menu.mp3",
@@ -25,7 +25,7 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 999999999,
     "gcount": {
         "prem": 1000,
         "user": 15
